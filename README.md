@@ -1,4 +1,4 @@
-1. ![](teclado.jpg)
+1. ![](./img-projeto.png)
 
 # Site da Microsoft Clone
 Esse site foi um clone do site da microsoft para mostrar que com poucas ferramentas podemos criar qualquer site
@@ -15,6 +15,8 @@ Esse site foi um clone do site da microsoft para mostrar que com poucas ferramen
 * **jailson dev** - *FrontEnd do projeto* - [jailson Dev](https://www.youtube.com/@JailsonDev/videos)
 
 ### 🔗 Licença
+[Testar o Site](https://radiant-dango-a31833.netlify.app/)
+
 Esse projeto está sob a licença (nome da licença) - acesse os detatlhes [LICENSE.md](www.google.com).
 
 ### 🫂 Gratidão agradecimentos
